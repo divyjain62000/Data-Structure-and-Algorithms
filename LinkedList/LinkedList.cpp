@@ -100,6 +100,35 @@ int getCount()
 return this->count;
 }
 
+int middleElement()
+{
+LinkedListNode *s=this->start;
+LinkedListNode *f=this->start;
+int middleElement=this->start->data;
+while(f!=NULL && f->next!=NULL)
+{
+s=s->next;
+f=f->next->next;
+}
+return s->data;
+}
+
+void reverseLinkedList()
+{
+LinkedListNode *d=NULL;
+LinkedListNode *t=this->start;
+LinkedListNode *u=this->start->next;
+while(u!=NULL)
+{
+t->next=d;
+d=t;
+t=u;
+u=u->next;
+}
+t->next=d;
+this->start=t;
+}
+
 };
 int main()
 {
@@ -115,7 +144,9 @@ cout<<"2. Edit"<<endl;
 cout<<"3. Display"<<endl;
 cout<<"4. Delete"<<endl;
 cout<<"5. Total Number Of Elements"<<endl;
-cout<<"\nEnter your choice: "<<endl;
+cout<<"6. Middle Element"<<endl;
+cout<<"7. Reverse Linked List"<<endl;
+cout<<"\nEnter your choice: ";
 cin>>choice;
 if(choice==1)
 {
@@ -163,6 +194,21 @@ cout<<"-----------------------------------------"<<endl;
 cout<<"      Total Number Of Elements       "<<endl;
 cout<<"-----------------------------------------"<<endl;
 cout<<linkedList.getCount();
+}else
+if(choice==6)
+{
+cout<<"-----------------------------"<<endl;
+cout<<"      Middle Elements       "<<endl;
+cout<<"------------------------------"<<endl;
+cout<<linkedList.middleElement();
+}else
+if(choice==7)
+{
+cout<<"---------------------------------"<<endl;
+cout<<"      Reverse Linked List       "<<endl;
+cout<<"---------------------------------"<<endl;
+linkedList.reverseLinkedList();
+linkedList.display();
 }
 }
 return 0;
