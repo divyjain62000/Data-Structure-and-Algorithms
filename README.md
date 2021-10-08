@@ -7,7 +7,8 @@
 
 
 ### Graph
-![image](https://user-images.githubusercontent.com/82946769/136202810-2d0d06cf-f74f-43ed-9caa-b2852677431d.png)
+![image](https://user-images.githubusercontent.com/82946769/136559209-8500d6b7-a75e-423f-abdc-3b824681e4d7.png)
+
 
 
 
