@@ -8,12 +8,12 @@ printf("Enter number of vertices: ");
 scanf("%d",&V);
 printf("Enter number of edges: ");
 scanf("%d",&E);
-int u,v;
 vector<int> adj[V];
+int u,v;
 for(int i=0;i<E;i++)
 {
-scanf("%d",&u);
-scanf("%d",&v);
+cin>>u;
+cin>>v;
 adj[u].push_back(v);
 adj[v].push_back(u);
 }
