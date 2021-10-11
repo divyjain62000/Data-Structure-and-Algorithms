@@ -9,7 +9,8 @@
 
 
 ### Graph
-![image](https://user-images.githubusercontent.com/82946769/136654673-d7291fbe-6b39-4cd6-b4ea-3dc350082c79.png)
+![image](https://user-images.githubusercontent.com/82946769/136779550-a25262cb-2f7c-4d0d-a5a9-a0870206a761.png)
+
 
 
 
