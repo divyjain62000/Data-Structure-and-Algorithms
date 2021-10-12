@@ -12,7 +12,8 @@
 
 
 ### BST
-![image](https://user-images.githubusercontent.com/82946769/136884026-eb4a6177-65b8-4c9f-9662-771dde6b037b.png)
+![image](https://user-images.githubusercontent.com/82946769/136950539-23454a0f-ccac-4c0c-a986-3b0ddac75ce3.png)
+
 
 
 
