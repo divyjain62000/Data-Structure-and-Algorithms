@@ -8,7 +8,8 @@
 
 
 ### Graph
-![image](https://user-images.githubusercontent.com/82946769/136883901-8b4b949a-7e43-4cd4-97b2-7e47e9fd1914.png)
+![image](https://user-images.githubusercontent.com/82946769/137049684-1f281ca3-5cac-4c18-aad3-85edd3ec1599.png)
+
 
 
 ### BST
