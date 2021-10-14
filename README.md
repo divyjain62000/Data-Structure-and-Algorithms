@@ -3,7 +3,8 @@
 ### Time and Space Complexity
 ![image](https://user-images.githubusercontent.com/82946769/136149681-148b42f7-484c-4d7c-8115-e94311d71960.png)
 
-![image](https://user-images.githubusercontent.com/82946769/137245837-1677b257-20fc-4760-839b-84a9e085f6d1.png)
+![image](https://user-images.githubusercontent.com/82946769/137314743-d3c52d4f-7118-4c15-8a34-2b82318fcc82.png)
+
 
 
 
@@ -15,7 +16,8 @@
 
 
 ### BST
-![image](https://user-images.githubusercontent.com/82946769/136950539-23454a0f-ccac-4c0c-a986-3b0ddac75ce3.png)
+![image](https://user-images.githubusercontent.com/82946769/137315079-0f7fa5b1-9377-4c65-8861-8681ddd6ba2d.png)
+
 
 
 
