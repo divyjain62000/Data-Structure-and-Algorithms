@@ -20,7 +20,7 @@
 ![image](https://user-images.githubusercontent.com/82946769/137315079-0f7fa5b1-9377-4c65-8861-8681ddd6ba2d.png)
 
 
-## Points To Remeber:-
+## Points To Remember:-
 1) If the length of string is n, then there can be n*(n+1)/2 possible substrings.
 
 
