@@ -3,7 +3,8 @@
 ### Time and Space Complexity
 ![image](https://user-images.githubusercontent.com/82946769/136149681-148b42f7-484c-4d7c-8115-e94311d71960.png)
 
-![image](https://user-images.githubusercontent.com/82946769/137314743-d3c52d4f-7118-4c15-8a34-2b82318fcc82.png)
+![image](https://user-images.githubusercontent.com/82946769/137448509-7586a35a-9211-41b9-8842-cefbcb56301b.png)
+
 
 
 
