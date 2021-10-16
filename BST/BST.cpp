@@ -132,6 +132,7 @@ while(t!=NULL)
 s.push(t);
 t=t->left;
 }
+
 while(!s.empty())
 {
 t=s.top();
