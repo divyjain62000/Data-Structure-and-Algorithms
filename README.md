@@ -18,7 +18,7 @@ Below you find chart of Time complexity and Space Complexity for Graph Algorithm
 
 
 ### Binary Tree
-![image](https://user-images.githubusercontent.com/82946769/137678753-7c36fda6-cbc0-43eb-ab6c-aeef6cbf2cd1.png)
+![image](https://user-images.githubusercontent.com/82946769/138388733-fc3c5337-a8d2-4856-94cc-eecd160344dd.png)
 
 
 ### Sorting Algorithms
