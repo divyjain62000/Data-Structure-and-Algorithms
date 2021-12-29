@@ -3,9 +3,13 @@
 Below you find chart of Time complexity and Space Complexity for Graph Algorithms, BST, Binary Tree, Sorting Algorithms and some Standard Problems.
 
 ### Time and Space Complexity
-![image](https://user-images.githubusercontent.com/82946769/136149681-148b42f7-484c-4d7c-8115-e94311d71960.png)
+![image](https://user-images.githubusercontent.com/82946769/147654924-5ce2b679-3578-4648-beaf-d2d5970d4c47.png)
+
 
 ![image](https://user-images.githubusercontent.com/82946769/140636349-52eb06da-79ae-464a-b975-bb1abdccd08d.png)
+
+![image](https://user-images.githubusercontent.com/82946769/147654669-e276d380-cd24-417e-bd47-8e92c65c8e1c.png)
+
 
 
 ### Algorithms & Questions Based On It
