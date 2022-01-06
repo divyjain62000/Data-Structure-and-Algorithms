@@ -8,7 +8,8 @@ Below you find chart of Time complexity and Space Complexity for Graph Algorithm
 
 ![image](https://user-images.githubusercontent.com/82946769/140636349-52eb06da-79ae-464a-b975-bb1abdccd08d.png)
 
-![image](https://user-images.githubusercontent.com/82946769/147865412-476c76ce-b7dd-4771-a7db-81b3b7fe01b6.png)
+![image](https://user-images.githubusercontent.com/82946769/148232204-abd6a002-88dc-4eaf-85b0-d3305e4d7c20.png)
+
 
 
 
