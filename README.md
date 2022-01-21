@@ -8,7 +8,8 @@ Below you find chart of Time complexity and Space Complexity for Graph Algorithm
 
 ![image](https://user-images.githubusercontent.com/82946769/140636349-52eb06da-79ae-464a-b975-bb1abdccd08d.png)
 
-![image](https://user-images.githubusercontent.com/82946769/149927520-30c17d62-5db5-4377-9dd3-ff3d894cf966.png)
+![image](https://user-images.githubusercontent.com/82946769/150462965-f4ac65cc-0796-40ff-b0bb-c8ba04136226.png)
+
 
 
 
@@ -27,13 +28,12 @@ Below you find chart of Time complexity and Space Complexity for Graph Algorithm
 
 
 
-### BST
+### Binary Tree & BST
 ![image](https://user-images.githubusercontent.com/82946769/140636372-7e67f61e-74c8-40d7-8e5f-605acd1b27d2.png)
 
-
-
-### Binary Tree
 ![image](https://user-images.githubusercontent.com/82946769/140636375-55a7ef3d-a700-40b0-9311-82316738df7b.png)
+
+![image](https://user-images.githubusercontent.com/82946769/150463319-e1734bca-ba82-4f62-a605-84e90e111c24.png)
 
 
 
@@ -44,6 +44,9 @@ Below you find chart of Time complexity and Space Complexity for Graph Algorithm
 
 ### Linked List
 ![image](https://user-images.githubusercontent.com/82946769/140636394-2a08cc7f-bdd3-49ec-9576-36f31d4b5349.png)
+
+![image](https://user-images.githubusercontent.com/82946769/150463366-5fcbab00-2229-4275-a376-9327ccb94ec5.png)
+
 
 
 
