@@ -10,8 +10,9 @@ Below you find chart of Time complexity and Space Complexity for Graph Algorithm
 
 ![image](https://user-images.githubusercontent.com/82946769/150799346-f477031c-ddd1-48a5-aa03-a0b0fd197826.png)
 
-### All these files are inside leetcode folder
-![image](https://user-images.githubusercontent.com/82946769/154633480-2e999e2f-896e-46d5-879e-04601842f0fd.png)
+### Solution of all these problems are inside leetcode folder
+![image](https://user-images.githubusercontent.com/82946769/154644757-8c042bb4-16ae-49b5-a2fd-65a523d12a33.png)
+
 
 
 
